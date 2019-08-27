@@ -1,0 +1,11 @@
+
+mysql> select * from book;
++--------+----------------------+--------+--------------------+
+| BookID | BookName             | Price  | Author             |
++--------+----------------------+--------+--------------------+
+|      1 | MySQL for dummies    | 350.00 | Mcgraw Hill        |
+|      2 | MySQL for Developers | 560.00 | Chetan Bhagat      |
+|      3 | HTML5 Step by Step   |   NULL | Sydney Sheldon     |
+|      5 | Test you C++ Skills  | 150.00 | Yashwanth Kanetkar |
++--------+----------------------+--------+--------------------+
+4 rows in set (0.00 sec)
